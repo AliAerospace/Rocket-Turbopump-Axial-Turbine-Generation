@@ -55,7 +55,7 @@ Note: **Make sure to wait at least 20 seconds to 1 min for most computers before
 
 
 ## 🧠 Notes
-- Tntended for **rapid design studies**
+- Intended for **rapid design studies**
 - The 3D model is a **visualisation** derived from mean-line and chosen aerofoil sections (not a CFD mesh generator)
 - The first stator is at x = 0, then it cycles to rotor, stator, then rotor with increasing x
 
