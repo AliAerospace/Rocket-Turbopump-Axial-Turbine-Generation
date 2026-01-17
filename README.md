@@ -15,6 +15,7 @@ A MATLAB App Designer tool for **2-stage axial rocket turbine sizing** with **st
 - Compressible-flow relations
 - Mass continuity
 - Choking checks
+- Reaction turbine velocity triangles used - will be updated to incorporate impulse turbine velocity triangles soon.
 
 ### ⚙️ Main Assumptions
 - Ideal-gas behaviour
