@@ -181,9 +181,9 @@ classdef RocketTATGbyAliAerospace < matlab.apps.AppBase
             %gas and inlet default
             app.GammaEdit.Value = '1.333';
             app.CpEdit.Value    = '7662';
-            app.Tt4Edit.Value   = '1333';
-            app.Pt4Edit.Value   = '4.64e7';
-            app.MdotEdit.Value  = '44.0';
+            app.Tt4Edit.Value   = '700';
+            app.Pt4Edit.Value   = '4e6';
+            app.MdotEdit.Value  = '300.0';
             app.NozzleLossCoeffEdit.Value = '0.05';
 
             %power efficiencies defaults
